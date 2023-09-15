@@ -1,4 +1,4 @@
-(A) Git Setup  
+(A) Git Setup {start:2023-09-15T12:56:16}
 (B) Node version manager setup
 (C) NodeJS project setup
 (D) TypeScript setup
