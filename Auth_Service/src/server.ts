@@ -1,4 +1,5 @@
-function testThis(username: string) {
-    console.log(username);
+function testThis(username: string): string {
+    console.log("Hello " + username);
+    return username;
 }
 testThis("test");
