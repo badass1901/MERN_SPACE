@@ -1,6 +1,6 @@
 (A) Git Setup {start:2023-09-15T12:56:16}
-(B) Node version manager setup
-(C) NodeJS project setup
+(B) Node version manager setup {start:2023-09-15T21:59:48}
+(C) NodeJS project setup {start:2023-09-15T21:59:55}
 (D) TypeScript setup
 (E) Prettier Setup
 (F) ES Lint Setup
